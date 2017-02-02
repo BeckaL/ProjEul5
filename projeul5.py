@@ -10,6 +10,7 @@ def isfactor(number, factor):
     else:
         return 0
 
+
 # print isfactor(20, 4)
 l=[]
 def multifactors(number, nofacts):
