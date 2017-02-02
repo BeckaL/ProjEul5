@@ -22,13 +22,7 @@ def multifactors(number, nofacts):
         return count
 
 print multifactors(1, 10)
-# l=[]
-# def rangechecker(n):
-#     for i in range(1, n+1):
-#         l.append(i)
-#     print l
-#
-# rangechecker(4)
+
 
 def multifactortest(n):
     x=2520
